@@ -1,0 +1,17 @@
+.portfolio-categ li.active {
+    background: #0097ff;
+    color: #fff;
+    border: 1px solid #0097ff;
+}
+
+
+#logo_image
+{
+	width: 30%;
+}
+
+.corner
+{
+	border-top-right-radius: 15%;
+    border-bottom-left-radius: 15%;
+}
